@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Lal</h1>
-<h3 align="center">A Fullstack developer from India (Pursuing PG {MCA} from Subharti University )</h3>
+<h3 align="center">A Fullstack Engineer with the skill set's of AWS | Node.js | React.js | TypeScript | Express.js | MongoDB | SQL | Git </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamlalranjan&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamlalranjan" /> </p>
 
@@ -7,17 +7,21 @@
 
 <p align="left"> <a href="https://twitter.com/lalshubhamlal" target="blank"><img src="https://img.shields.io/twitter/follow/lalshubhamlal?logo=twitter&style=for-the-badge" alt="lalshubhamlal" /></a> </p>
 
-- 🔭 I’m currently working in [Chetu](https://chetu.com)
+- 🌟 Fullstack Engineer | AWS | Node.js | React.js | TypeScript | Express.js | MongoDB | SQL | Git
 
-- 🌱 I’m currently learning **Docker**
+- 🔧 Skilled in developing robust web applications and APIs with a focus on scalability and performance optimization. Proficient in utilizing a wide array of technologies including Amazon Web Services (AWS), Node.js, React.js, TypeScript, Express.js, LoopBack.io, MongoDB, and SQL.
 
-- 👨‍💻 All of my projects are available at [https://github.com/shubhamlalranjan/shubhamlalranjan](https://github.com/shubhamlalranjan/shubhamlalranjan)
+- 🚀 Experienced in both frontend and backend development, with a strong foundation in JavaScript (ES6+), Python, and utilizing frameworks like React.js and Express.js to deliver dynamic user interfaces and efficient server-side functionality.
 
-- 💬 Ask me about **Nodejs, Express, Mongodb, Mongoose, Docker, React, Redux, React Native,& TypeScript**
+- 🔍 Expertise in database management using MongoDB and SQL, ensuring data integrity and efficiency through optimized query design and schema modeling.
 
-- 📫 How to reach me **shuhbamlalranjan@gmail.com**
+- 🛠️ Hands-on experience with version control systems such as Git, GitHub, and Bitbucket, adept at managing repositories, branching, and merging workflows for collaborative development environments.
 
-- 📄 Know about my experiences [I Have Worked on several Projects Like Lendo.sa & Mytitaniumflex.com & Cloudygym.com & Betikishadi.com Since 2019, And Also Worked With Web scrapping things with the help of Nodejs (package called Cheerio), Also build Integration Testing of API with the help of JEST](I Have Worked on several MERN Stack Projects Like Cloudygym.com & Betikishadi.com Since 2019, And Also Worked With Web scrapping things with the help of Nodejs (package called Cheerio), Also build Integration Testing of API with the help of JEST)
+- 📦 Familiar with CI/CD pipelines using GitLab for automated builds, tests, and deployments, streamlining the development lifecycle and ensuring rapid delivery of high-quality software solutions.
+
+- 📝 Additionally skilled in package management with Poetry (Python), enhancing project dependencies and ensuring consistent development environments across teams.
+
+💬 Open to exciting opportunities where I can leverage my technical skills to contribute to innovative projects and collaborate with talented teams.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
